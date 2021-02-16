@@ -30,7 +30,7 @@ Ce laboratoire ne nécessite l'installation d'aucune librairie particulière. Co
 
 ### 3.1. Fichiers de test
 
-Afin de vous permettre de tester votre approche, nous vous fournissons des [vidéos adaptées au projet](https://setr-ulaval.github.io/labo3-fichiers/lab3_videos_ULV.zip) (attention : taille de 670 Mo!). Ceux-ci sont issus [des projets de la Fondation Blender](https://www.blender.org/features/projects/) et peuvent être distribués librement. Vous pouvez tester votre projet avec d'autres vidéos, mais assurez-vous que vous possédez les droits pour le faire. Notez que ces vidéos sont encodées de manière spéciale et que vous ne serez pas capables de les ouvrir avec un lecteur classique. Nous reviendrons plus loin sur les spécificités de ce format.
+Afin de vous permettre de tester votre approche, nous vous fournissons des [vidéos adaptées au projet](https://github.com/setr-ulaval/setr-ulaval.github.io/raw/gh-pages/labo3-fichiers/lab3_videos_ULV.zip) (attention : taille de 670 Mo!). Ceux-ci sont issus [des projets de la Fondation Blender](https://www.blender.org/features/projects/) et peuvent être distribués librement. Vous pouvez tester votre projet avec d'autres vidéos, mais assurez-vous que vous possédez les droits pour le faire. Notez que ces vidéos sont encodées de manière spéciale et que vous ne serez pas capables de les ouvrir avec un lecteur classique. Nous reviendrons plus loin sur les spécificités de ce format.
 
 
 ## 4. Architecture générale
