@@ -265,9 +265,9 @@ Ce travail doit être réalisé **en équipe de deux**, la charge de travail ét
 
 La démonstration vidéo devrait comprendre les éléments suivants:
   1. La sortie de compilation d'un `CMake: Clean Rebuild`;
-  2. L'exécution l'un après l'autre des scripts (fournis dans le dossier _configs_) 4, 8, 10 et 11 en veillant bien à montrer le contenu de _stat.txt_ entre chaque script. Les FPS de chaque vidéo doit apparaître clairement à l'image.
+  2. L'exécution l'un après l'autre des scripts (fournis dans le dossier _configs_) 4, 8, 10 et 11 en veillant bien à montrer le contenu de _stat.txt_ entre chaque script: les FPS de chaque vidéo doit apparaître clairement à l'image. Afin de bien vérifier le rendu, filmez la sortie vidéo du Raspberry Pi pendant minimum une dizaine de secondes avant de montrer le fichier _stat.txt_.
  
-Comme il n'y a pas de possibilité d'enregistrer la sortie video autrement qu'avec du matériel spécialisé, vous pourrez utiliser une caméra pour filmer votre écran directement.
+Comme il n'y a pas de possibilité d'enregistrer la sortie video autrement qu'avec du matériel spécialisé, vous pourrez utiliser une caméra pour filmer votre écran directement, attention à veiller que le texte y soit bien lisible.
 
 Le barème d'évaluation détaillé sera le suivant (laboratoire noté sur 20 points) :
 
