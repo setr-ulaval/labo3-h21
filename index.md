@@ -263,7 +263,11 @@ Par défaut, le Raspberry Pi Zero met en veille son GPU lorsqu'il n'y a pas d'in
 
 Ce travail doit être réalisé **en équipe de deux**, la charge de travail étant à répartir équitablement entre les deux membres de l'équipe. Aucun rapport n'est à remettre, mais vous devez soumettre votre code source et une vidéo de démonstration dans monPortail avant le **11 mars 2021, 9h30**. Ensuite, lors de la séance de laboratoire du **12 mars 2021**, les deux équipiers doivent être en mesure individuellement d'expliquer leur approche et de démontrer le bon fonctionnement de l'ensemble de la solution de l'équipe du laboratoire. Si vous ne pouvez pas vous y présenter, contactez l'équipe pédagogique du cours dans les plus brefs délais afin de convenir d'une date d'évaluation alternative. Ce travail compte pour **15%** de la note totale du cours. Comme pour les travaux précédents, votre code doit compiler **sans avertissements** de la part de GCC.
 
-La démonstration vidéo devrait comprendre les éléments suivants: (**à compléter**)
+La démonstration vidéo devrait comprendre les éléments suivants:
+  1. La sortie de compilation d'un `CMake: Clean Rebuild`;
+  2. L'exécution l'un après l'autre des scripts (fournis dans le dossier _configs_) 4, 8, 10 et 11 en veillant bien à montrer le contenu de _stat.txt_ entre chaque script. Les FPS de chaque vidéo doit apparaître clairement à l'image.
+ 
+Comme il n'y a pas de possibilité d'enregistrer la sortie video autrement qu'avec du matériel spécialisé, vous pourrez utiliser une caméra pour filmer votre écran directement.
 
 Le barème d'évaluation détaillé sera le suivant (laboratoire noté sur 20 points) :
 
